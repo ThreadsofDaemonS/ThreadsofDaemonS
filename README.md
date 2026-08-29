@@ -51,31 +51,11 @@ Status: Building the future, one commit at a time.
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ThreadsofDaemonS&theme=tokyonight_duo&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThreadsofDaemonS&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFC6&line=00FFC6&point=FFFFFF"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ThreadsofDaemonS/ThreadsofDaemonS/output/dist/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/ThreadsofDaemonS/ThreadsofDaemonS/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
