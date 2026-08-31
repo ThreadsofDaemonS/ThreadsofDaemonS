@@ -1,25 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=THREADSOFDAEMONS&fontColor=00ffcc&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Python%20Web%20Developer&descAlignY=60&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=0:1a2980,50:26d0ce,100:1a2980&text=THREADSOFDAEMONS&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=twinkling&desc=Python%20Web%20Developer&descAlignY=60&descColor=eafcff"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=800&lines=Python+Web+Developer;Backend+%7C+APIs+%7C+Automation;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=26D0CE&center=true&vCenter=true&width=750&lines=Building+with+Python;Django+%7C+Flask+%7C+REST+APIs;Always+shipping+something+new" />
 </p>
-
-# ⚡ WELCOME TO MY PROFILE ⚡
-
-```bash
-> Initializing system...
-> Loading Python modules...
-> Starting Django/Flask server...
-> Access Granted.
-```
 
 </div>
 
 ---
 
-# 🧠 About Me
+## 🧩 About Me
 
 ```yaml
 Name: ThreadsofDaemonS
@@ -41,17 +32,28 @@ Status: Building the future, one commit at a time.
 
 ---
 
-# 🚀 Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,js,html,css,nodejs,linux,docker,git,github,vscode,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,js,html,css,postgres,mysql,git,github,docker,linux,vscode&theme=light" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ThreadsofDaemonS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://streak-stats.demolab.com?user=ThreadsofDaemonS&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -61,18 +63,18 @@ Status: Building the future, one commit at a time.
 
 ---
 
-# ⚔️ Current Mission
+## ⚔️ Current Mission
 
 ```python
 class Developer:
-
     def __init__(self):
         self.name = "ThreadsofDaemonS"
         self.role = "Python Web Developer"
-        self.language_spoken = ["Python", "JavaScript", "HTML", "CSS"]
+        self.stack = ["Python", "Django", "Flask", "JavaScript"]
 
     def say_hi(self):
         print("Thanks for visiting my profile.")
+
 
 me = Developer()
 me.say_hi()
@@ -80,12 +82,12 @@ me.say_hi()
 
 ---
 
-# 🌌 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/ThreadsofDaemonS">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00FFC6"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=26D0CE"/>
 </a>
 
 </div>
@@ -94,8 +96,8 @@ me.say_hi()
 
 <div align="center">
 
-### 💻 "Code. Build. Ship." 💻
+### 🚀 "Code. Build. Ship." 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=footer&color=0:1a2980,50:26d0ce,100:1a2980"/>
 
 </div>
